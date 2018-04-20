@@ -4,9 +4,19 @@
     
     <url>
      <loc>/</loc>
-     <lastmod>2017-11-02</lastmod>
+     <lastmod>2018-04-20</lastmod>
      <changefreq>daily</changefreq>
     </url>
+    
+
+    
+        
+    <url>
+     <loc>/rocketmq/01-install/</loc>
+     <lastmod>2018-04-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
     
 
 </urlset>
